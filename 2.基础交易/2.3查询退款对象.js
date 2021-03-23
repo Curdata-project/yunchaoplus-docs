@@ -6,7 +6,7 @@ export const data = {
     },
     {
       title: "响应示例",
-      value: {
+      value: `{
         "code": 0,
         "message": "success",
         "data": {
@@ -22,7 +22,7 @@ export const data = {
           "description": "",
           "extra": ""
         }
-      }
+      }`
     }
   ],
 }
