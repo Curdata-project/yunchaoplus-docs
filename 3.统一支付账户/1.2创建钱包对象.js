@@ -11,8 +11,9 @@ export const data = {
           "id_card": "120104200301019106",
           "auth_type": "2",
           "encrypt_pwd": "lqx9nbXUa9cKyWwkF3N3X6ama77uutjcsQbkxasMZfMZzE0s37YEMQCsDaEMV7QNjGiHlrWo7Rr8AbitNBsyGTTlvnbcK2+gxp0ISWcRjsOZ/vRnjPgjcuz2FDh8jAkuIrZu/QHBag/C+0ofNbk4YrmGuJhuWPk0O5+OTk1tVwdSw+AliIMzKQAggzNCOzrFcFDSL9CCaG+ax/wJJRCTPu69l8iyLFINWNiIsdmjNUSkRhQYCc/feK4ikcr7+NELpE9kDyPhUObyO9Y4bkjAhIOz9ZCJX5QGxFVxSMPGzPSJfHWYiW5i+nfpUFxlF5DR8JrMiw8GajHt9MtYXyODSILF2Jn5gh9R3JpEGkC3PMU=",
-          "plug_random_key": "ffa364d200cf4af8b273ae20c69d9a0f"
-          "sms_auth_code":"28379"
+          "plug_random_key": "ffa364d200cf4af8b273ae20c69d9a0f",
+          "encrypt_type": "1"
+          "sms_auth_code":"28379"//此处测试环境时不需要填写
         }
       }`
     },

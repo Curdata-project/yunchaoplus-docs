@@ -11,18 +11,12 @@ export const data = {
         "settle": "2873823",
         "description": "123",
         "extra": {
-          "wallet_id":1000000000000000000,
-          "amount":1000000000000000,
-          "withdraw_type":"string",
-          "mct_order_no":"string",
-          "fee_amt":1000000000000000,
-          "fee_into_wallet_id":1000000000000000000,
-          "trade_way_code":"string",
-          "trade_way_feilds":"string",
-          "bank_acct_no":"string",
-          "remark":"string",
-          "abst":"string",
-          "postscript":"string"
+          "trade_way_code": "c_pass",
+          "trade_way_feilds": {
+            "encrypt_type": "1",//是用小键盘时使用1
+            "plug_random_key": "638266dcaeb741028b38f73494f57eca",
+            "encrypt_pwd": "hNXK9Z0rlUhyUB4sHsn/7/ggPZ31HzBL7CjCTIlnRqVVIIOnY6UD4MY+yEuZCbrldJLV8PhwE9WtXv6f1eRcNsbVut95O+mDogEtFdJXUbOZZlv7yWEG/KHmQJc4Kzbicgv6aIMS3ak9DubrWlG8iGNVQlZUe7H/wdJb9XSZ2YGADVSt7gMRbyawSwEMfuWBAiD/OkHD6uczPstXK9ovuyfxXNigPsLjICEz7LHjLJvxo+USfrncyiHCML+xmNW6DxyzkJ0LGQcOLzlMQVDGkLa3JOdgHHiRoZtnfZaAoWua5TW5uzhpKm6ciGv8NL6b3CAfChZqU+KI1sCf+9QE/tW2Wus1Tb6A/Zhglzs/sjA="
+          }
         }
       }`
     },

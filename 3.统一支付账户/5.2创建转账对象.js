@@ -11,11 +11,12 @@ export const data = {
         "settle": "2873823",
         "description": "123",
         "extra": {
-          "trade_way_code": "string",
-          "trade_way_feilds": "string",
-          "trans_type": "string",
-          "pay_type": "string",
-          "pay_bank_acct_no": "string"
+          "trade_way_code": "c_pass",
+          "trade_way_feilds": {
+            "encrypt_type": "1",//使用小键盘时填写1
+            "plug_random_key": "9094425062634eafb0c7e366826d7453",
+            "encrypt_pwd": "JP9ueuqA4Mm9qzVYzINCPbn2hDoR+tBaYtwCHqItQtfCoTz9pIM9YU7vovg0v2mxcpV9Ylhs9M6XgNA18taGfGT9lzXQOGTOzz/qjlFTTaouIoJNsTbCcf7zA/juWRZlmZwkp8Yy74iD9RXyKDKRZ1lxj47YBj+95/c2qwcMnqu0J9S2K3+FiNJMKhxx8XGYOHx9e2YCs77NVItfJAKQnnOzkHPYy+32JHufohOC9JOCMXYlWGnffUmQ7FcJ/khSbxCeAmypTqGz6anLC2E8vhbJARAOBdQJ3t2MfhQ9aJE7y0sVDwOQErlULMcysmdczc56gqN0fwrB0ARhDnQekDGx9QlaysAyarz/DhuqwDw="
+          }
         }
       }`
     },
