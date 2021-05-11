@@ -6,8 +6,6 @@ export const data = {
         "wallet_id": "f42f8c78-2ada-46b7-b21e-33d116adb1c5",
         "recharge_amount": 50,
         "amount": 40,
-        "fee_wallet": "f415fc21-439e-4649-9c3f-d1058b9c2f39",
-        "fee": 10,
         "settle": "2873823",
         "description": "123",
         "extra": {
